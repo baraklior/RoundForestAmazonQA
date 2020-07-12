@@ -1,0 +1,11 @@
+
+
+venv/
+
+.idea/
+
+*.pyc
+
+#holds the database
+questions.json
+
